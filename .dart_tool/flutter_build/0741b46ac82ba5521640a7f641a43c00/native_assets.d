@@ -1,0 +1,1 @@
+ C:\\Users\\labsfiap\\Desktop\\Fiap_Task_App\\.dart_tool\\flutter_build\\0741b46ac82ba5521640a7f641a43c00\\native_assets.yaml: 
